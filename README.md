@@ -22,6 +22,11 @@ This project utilizes stock market data (such as Microsoft's stock) to predict f
 - Visualizing prediction results.
 - Graphical User Interface (GUI) for displaying predictions (optional).
 
+## Output
+![image](https://github.com/user-attachments/assets/6e9b499c-93f4-48a5-853c-5914b03d2a0c)
+![image](https://github.com/user-attachments/assets/0b956a02-abb0-4820-b24a-7ff0ab720155)
+
+
 ## Installation
 
 1. Clone the repository:

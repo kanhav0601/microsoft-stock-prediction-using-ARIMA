@@ -26,6 +26,13 @@ This project utilizes stock market data (such as Microsoft's stock) to predict f
 ![image](https://github.com/user-attachments/assets/6e9b499c-93f4-48a5-853c-5914b03d2a0c)
 ![image](https://github.com/user-attachments/assets/0b956a02-abb0-4820-b24a-7ff0ab720155)
 
+and the actual price on the day -:
+
+my model predicted approximately #433 and the actual price on 17-09-2024 was #434 
+
+
+
+
 
 ## Installation
 
